@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 20,
+      "marks": {
+        "maths": 85,
+        "science": 78,
+        "english": 92
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 22,
+      "marks": {
+        "maths": 75,
+        "science": 82,
+        "english": 88
+      }
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 21,
+      "marks": {
+        "maths": 90,
+        "science": 80,
+        "english": 85
+      }
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "age": 19,
+      "marks": {
+        "maths": 68,
+        "science": 75,
+        "english": 78
+      }
+    },
+    {
+      "id": 5,
+      "name": "Emily",
+      "age": 23,
+      "marks": {
+        "maths": 79,
+        "science": 85,
+        "english": 90
+      }
+    },
+    {
+      "id": 6,
+      "name": "Frank",
+      "age": 20,
+      "marks": {
+        "maths": 82,
+        "science": 72,
+        "english": 76
+      }
+    },
+    {
+      "id": 7,
+      "name": "Grace",
+      "age": 21,
+      "marks": {
+        "maths": 88,
+        "science": 90,
+        "english": 92
+      }
+    },
+    {
+      "id": 8,
+      "name": "Henry",
+      "age": 22,
+      "marks": {
+        "maths": 91,
+        "science": 88,
+        "english": 84
+      }
+    },
+    {
+      "id": 9,
+      "name": "Ivy",
+      "age": 19,
+      "marks": {
+        "maths": 76,
+        "science": 83,
+        "english": 79
+      }
+    },
+    {
+      "id": 10,
+      "name": "Jack",
+      "age": 20,
+      "marks": {
+        "maths": 84,
+        "science": 77,
+        "english": 81
+      }
+    }
+  ]
+  
